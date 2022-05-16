@@ -1,2 +1,2 @@
 # SVM--Regression
-Regression using SVM
+Regression on California Housing dataset using SVM
